@@ -2,3 +2,8 @@
 	path = it-brasil/bi-odoo-project-phases
 	url = git@github.com:it-brasil/bi-odoo-project-phases.git
 	branch = master
+
+[submodule "it-brasil/odoo-project-phases"]
+	path = it-brasil/odoo-project-phases
+	url = git@github.com:it-brasil/bi-odoo-project-phases.git
+	branch = master
